@@ -1,4 +1,4 @@
-.cabeçalho__menu-hamburguer{
+.cabeçalho__menu-hamburguer {
     width: 24px;
     height: 24px;
     background-image: url("../img/Menu,svg");
@@ -22,12 +22,12 @@
 }
 
 
-.container__imagem{
+.container__imagem {
     padding: 1em;
 }
 
 
-.lista-menu{
+.lista-menu {
     display: none;
     position: absolute;
     top: 100%;
@@ -41,7 +41,7 @@ display: block;
 
 
 .lista-menu__título,
-.lista-menu__item{
+.lista-menu__item {
     padding: 1em;
     background-color: var(--branco);
 }
